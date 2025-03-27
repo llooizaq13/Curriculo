@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="imagex/png"
+        href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YVQZzYToKqbiKCZODI4Pr2FBnA2mxfdTZA&s">
+    <title>Curriculo Mª Luiza</title>
+</head>
+<body>
+    <center>
+        <h1>Maria Luiza Cavalcanti Valeriano</h1>
+        <img src="c:\Users\lluiz\Downloads\WhatsApp Image 2025-03-27 at 10.42.49.jpeg"
+            alt="Maria Luiza" title="Maria Luiza" height="200"><br>
+        
+    </center>
+    <hr>
+    <center>
+    ✘ <a href="file:///C:/Users/lluiz/Downloads/SOBRE.html" target="sobremim">Sobre mim</a> ✘
+    <a href="file:///C:/Users/lluiz/Downloads/FORMAÇÃO.html" target="formacao">Formação Academica</a> ✘
+    <a href= "file:///C:/Users/lluiz/Downloads/AEXTRA.html">Atividades Extracurriculares</a> ✘
+    <a href= "C:\Users\lluiz\Downloads\AEXTRA.html">Experiência Profissional</a> ✘
+    <a href= "C:\Users\lluiz\Downloads\AEXTRA.html">Conhecimentos</a> ✘
+    <a href= "C:\Users\lluiz\Downloads\AEXTRA.html">Hobbies</a> ✘
+    
+    
+
+    </center>
+    <hr>
+    <br>
+    <iframe name="sobremim" src="SOBRE.html" width="100%" height="300"></iframe>
+    
+    <iframe name="formacao" src="FORMAÇÃO.html" width="100%" height="300"></iframe>
+    <hr>
+    <br>
+        
+    <hr>
+    
+    </p>
+    <hr>
+    <center>
+        <h3>Experiência Profissional</h3>
+        <table style="width:30%">
+            <tr>
+                <td><b>Período</b></td>
+                <td><b>Descrição</b></td>
+                <td><b>Instituição</b></td>
+            </tr>
+            <tr>
+                <td>2017 - 2019</td>
+                <td>Estagiário Guess Service</td>
+                <td><a href="https://www.beachclassconvention.com.br/" target="_blank">Bristol Hotel Recife</a></td>
+            </tr>
+            <tr>
+                <td>2021 - Atual</td>
+                <td>Analista de Turismo</td>
+                <td><a href="https://www.sescpe.org.br/programas/lazer/turismo/" target="_blank">Sesc Pernambuco</a>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+    <hr>
+    <h3>Conhecimentos</h3>
+
+
+    <hr>
+    <h3>Endereço</h3>
+    <address>
+
+    </address>
+    Realizado: <a href="lluizacavalcante@hotmail.com">Aluna do SENAC</a>.<br>
+        Boa Vista. Recife - PE, Brasil
+
+<center>
+    <footer>Copyright ® 2025 Maria Luiza Cavalcanti. Todos os direitos reservados (talvez).</footer>
+</center>
+
+
+
+
+</body>
+
+</html>
+
+    
